@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-sea-serenity-society.squarespace.com	TRUE	/	FALSE	1999999999	crumb	BcYxfOwUHq/pMzZjZTBkZTBkMWE2ZGUxOTllZTc4YTJiZGI5NWFh
-
